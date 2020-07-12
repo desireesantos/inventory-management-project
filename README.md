@@ -7,9 +7,13 @@ In this project, we walk though:
 - Directives
 - Routing in angular
 
+![Component Structure](docs/docs/componentStructure.png)
+
 # Inventory Management Project
 
 It's a Single Page Application to provide a list of inventory (software and hardware)
+
+![Application](docs/application.png)
 
 ## Development server
 
