@@ -1,0 +1,14 @@
+ul,
+li {
+  text-align: center;
+  list-style-type: none;
+}
+
+ul {
+  margin-top: 20px;
+}
+
+li {
+  font-family: "Courier New", Courier, monospace;
+  padding-top: 6px;
+}

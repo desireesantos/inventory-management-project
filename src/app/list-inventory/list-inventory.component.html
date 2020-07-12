@@ -1,0 +1,9 @@
+<div>
+  <app-inventory
+    *ngFor="let inventory of inventories"
+    [name]="inventory.name"
+    [path]="inventory.path"
+  >
+  </app-inventory>
+</div>
+<router-outlet #routerOutlet="outlet"></router-outlet>
