@@ -7,7 +7,7 @@ In this project, we walk though:
 - Directives
 - Routing in angular
 
-![Component Structure](docs/docs/componentStructure.png)
+![Component Structure](docs/componentStructure.png)
 
 # Inventory Management Project
 
